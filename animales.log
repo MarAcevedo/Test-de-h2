@@ -1,0 +1,12 @@
+[2024-10-06 06:31:44] [INFO ][Animal:43] Nombre: Pelusa - Tipo: gato
+[2024-10-06 06:31:44] [INFO ][Animal:43] Nombre: Gaston - Tipo: perro
+[2024-10-06 06:31:44] [INFO ][Animal:43] Nombre: Sheldon - Tipo: tortuga
+[2024-10-06 06:31:44] [WARN ][Animal:49] Se borro el animal con el ID = 3
+[2024-10-06 06:31:44] [INFO ][Animal:58] Nombre: Pelusa - Tipo: gato
+[2024-10-06 06:31:44] [INFO ][Animal:58] Nombre: Gaston - Tipo: perro
+[2024-10-06 06:32:45] [INFO ][Animal:43] Nombre: Pelusa - Tipo: gato
+[2024-10-06 06:32:45] [INFO ][Animal:43] Nombre: Gaston - Tipo: perro
+[2024-10-06 06:32:45] [INFO ][Animal:43] Nombre: Sheldon - Tipo: tortuga
+[2024-10-06 06:32:45] [WARN ][Animal:49] Se borro el animal con el ID = 3
+[2024-10-06 06:32:45] [INFO ][Animal:58] Nombre: Pelusa - Tipo: gato
+[2024-10-06 06:32:45] [INFO ][Animal:58] Nombre: Sheldon - Tipo: tortuga
